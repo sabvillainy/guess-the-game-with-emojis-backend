@@ -14,7 +14,7 @@ The backend handles game data, retrieves emoji hints, and processes user guesses
 ## Endpoints
 - `/get-random-hint`: Returns a random game hint with emojis.
 - `/submit-game`: Accepts game ID and user’s guessed game name, returns whether the guess is correct.
-- `/auto-complete`: Provides a list of game names that match the user’s input.,
+- `/auto-complete`: Provides a list of game names that match the user’s input.
 
 ## Future Enhancements
 ### 1. Hint System:
